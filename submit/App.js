@@ -69,8 +69,8 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     justifyContent: 'center',
     flexDirection: 'row',
-    marginLeft: 25,
-    marginRight: 25,
+    marginLeft: '5%',
+    marginRight: '5%',
   },
   column: {
     flex: 1,
