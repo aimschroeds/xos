@@ -31,7 +31,7 @@ export default function App() {
         </View>
         <View style={styles.block}>
           <Text style={styles.xo}>
-            ❌
+           🐟
           </Text>
         </View>
         <View style={[styles.block, styles.blockBottom]}>
